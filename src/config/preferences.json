@@ -59,30 +59,30 @@
     "height":"31px"
   },
   "theme": {
-    "bodyBackground": "#0db2e0",
-    "headerBackground": "#0db2e0",
-    "menuBackground": "#0db2e0",
-    "activeLayer": "#33b560",
+    "bodyBackground": "#007aa5",
+    "headerBackground": "#007aa5",
+    "menuBackground": "#007aa5",
+    "activeLayer": "#c44511",
     "textMenu":"white",
     "textMenuStyle":"",
     "textLegendMenu":"#fafafa",
     "textLegendMenuStyle":"",
     "iconBar":"#4f4f4f"
-    },
+  },
   "logo": {
     "title":"Argenmap viewer",
-    "src": "src/styles/images/argenmap-banner-white.webp",
+    "src": "src/styles/images/aosc.png",
     "height": "",
     "width": "",
     "style": "background-size: 160px;",
-    "srcLogoMini": "src/styles/images/argenmap-banner-white.webp",
+    "srcLogoMini": "src/styles/images/aosc.png",
     "miniHeight": "",
     "miniWidth": "",
     "ministyle": "filter: drop-shadow(1px 1px 1px #103847); width: 128px;",
     "link": "https://github.com/ign-argentina/argenmap"
   },
   "logoText": {
-    "content": "Lorem Ipsum",
+    "content": "",
     "title":"Lorem Ipsum",
     "link": "#"
   },
@@ -145,5 +145,8 @@
     "basemap_max_zoom": " y máximo de ",
     "basemap_legend_button_text": "Ver leyenda del mapa",
     "delete_geometry": "Eliminar geometría"
+  },
+  "login":{
+    "isActive": true
   }
 }
